@@ -7,7 +7,7 @@
  * Plugin Name:       ShopShape
  * Plugin URI:        https://devkabir.shop/plugin/shopshape/
  * Description:       Enhancing Your Shopping Experience By Customizing Woocommerce Pages
- * Version:           1.0.0
+ * Version:           1.0.1
  * Requires at least: 5.9
  * Requires PHP:      7.4
  * Author:            Dev Kabir

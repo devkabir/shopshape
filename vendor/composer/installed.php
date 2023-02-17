@@ -6,7 +6,7 @@
     'aliases' => 
     array (
     ),
-    'reference' => '9eecc2602de48e5f233dfb702960fb2dfe0150c8',
+    'reference' => '8c63f262786e6f036f8c929bfa65334be852d7e5',
     'name' => 'devkabir/shopshape',
   ),
   'versions' => 
@@ -18,7 +18,7 @@
       'aliases' => 
       array (
       ),
-      'reference' => '9eecc2602de48e5f233dfb702960fb2dfe0150c8',
+      'reference' => '8c63f262786e6f036f8c929bfa65334be852d7e5',
     ),
   ),
 );
