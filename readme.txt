@@ -5,7 +5,7 @@ Tags: custom, customize, customized, customization, cart, page, woocommerce
 Requires at least: 5.9
 Tested up to: 6.1.1
 Requires PHP: 7.4
-Stable tag: 1.0.1
+Stable tag: 1.0.2
 License: GPL v2 or later
 License URI: https://www.gnu.org/licenses/gpl-2.0.html
 
@@ -13,33 +13,85 @@ Customize WooCommerce cart page! Say goodbye to unwanted or outdated content and
 
 == Description ==
 
-**Unfortunately, this plugin does not offer any form of assistance or support. It is designed to be used as-is. If the plugin is not compatible with your current setup, we recommend considering alternative plugins that better meet your needs.**
+**Please keep in mind that creating and maintaining a plugin takes a significant amount of time and resources, and I must utilize my resources efficiently in order to continue providing you with the finest product possible. I am unable to provide free one-on-one support for this plugin, despite providing documentation and a knowledge base.**
 
-WooCommerce is a popular e-commerce platform that allows users to sell products and services online. One of the key elements of any online store is the shopping cart. It's crucial for businesses to have a customized and optimized shopping cart that enhances the user experience and increases conversion rates.
+Shop shape can be used to customize the Woo Commerce cart page and transform your Woo Commerce store. Say goodbye to obsolete or unwanted content and hello to a more efficient shopping experience. This wordpress plugin allows you to remove or modify any Woo Commerce content from you. You will have complete control over your woo commerce store.
 
-ShopShape, provides a simple and efficient way to customize your WooCommerce cart page. Whether you're a store owner, developer, or marketer, this plugin gives you the tools you need to make the shopping cart work best for your business.
+**What's more, the best part? This plugin is just the beginning; exciting new features will be added based on your feedback. Shop Shape can help you improve your ecommerce experience right now!**
 
-With ShopShape plugin, you can customize various aspects of the cart page, including layout, product display, and checkout behavior. You can also add new features, such as custom fields and custom buttons, to enhance the cart page and provide a more engaging user experience.
+Woo Commerce is a popular e-commerce platform that allows users to sell products and services online. The woo commerce cart page is an essential component of any online store. A customized and optimized woo commerce cart is critical for businesses. It improves the user experience and boosts conversion rates.
 
-This plugin is designed for both beginner and advanced users. If you're a beginner, you'll appreciate the ease of use and simple settings. If you're an advanced user, you can use the plugin's code to create custom functions and extend the plugin's capabilities.
+Shop Shape is a quick and easy method to alter your Woo Commerce cart page. This wordpress plugin provides you with all of the resources you need to optimize your woo commerce cart page for your business. If you own a woo commerce store, are a woo commerce developer, or a executive in charge of marketing for woo commerce store.
 
-If you want to improve your online store's shopping cart and make it more efficient, user-friendly, and profitable, then the ShopShape plugin is the right tool for you. Try it today and start customizing your cart to maximize your sales and customer satisfaction!
+You can adjust the layout, product presentation, and checkout behavior of the woo commerce cart page with the Shop Shape plugin. To improve the woo commerce cart page and provide a more engaging user experience, you can add custom fields and custom buttons. And all of this can be done by click, no coding, no drag and drop.
 
-== Features ==
-- **Showing Product Stock on the Cart Page:** One of the most important pieces of information for customers is whether a product is in stock or out of stock. The ShopShape plugin allows you to display this information on the cart page, so customers can quickly determine the availability of the products they want to purchase.
-- **Showing Product SKU on the Cart Page:** The plugin also allows you to display the SKU (Stock Keeping Unit) of each product on the cart page. This information is useful for customers who want to keep track of the specific products they are purchasing, and it can also help store owners with inventory management.
-- **Showing Product Category on the Cart Page:** The plugin also allows you to display the category of each product on the cart page. This information can help customers identify the type of product they are purchasing and make it easier for them to find similar products in the future.
-- **Showing Total Weight on the Cart Page:** For stores that sell products that have weight, the plugin allows you to display the total weight of the products in the cart. This information can be useful for customers who want to determine the shipping cost of their order.
-- **Showing Total Discount on the Cart Page:** The plugin also allows you to display the total discount applied to the order on the cart page. This information can be useful for customers who want to keep track of how much they are saving on their purchase.
-- **Showing Custom Message When Cart is Empty:** The plugin provides the option to display a custom message on the cart page when it is empty. This message can be used to encourage customers to add products to their cart or to provide information about the store's policies.
-- **Showing Custom Message to Encourage Buyer for Free Shipping:** The plugin also provides the option to display a custom message on the cart page to encourage customers to reach a certain order total to qualify for free shipping. This message can be a great way to motivate customers to purchase more products.
-- **Hiding Coupon Form and Coupon Code:** The plugin allows you to hide the coupon form and coupon code on the cart page if you do not want to offer discounts to your customers.
-- **Hiding Shipping Destination and Shipping Calculator Fields:** The plugin also allows you to hide the shipping destination and shipping calculator fields on the cart page if you do not want to offer shipping to your customers.
-- **Hiding Product Links:** The plugin provides the option to hide product links on the cart page, which can be useful for stores that want to prevent customers from navigating away from the cart page.
-- **Removing a Product Automatically from Cart by Product ID:** The plugin allows you to remove a product from the cart automatically by its product ID. This feature can be useful for stores that want to enforce certain policies or restrictions.
-- **Making Cart and Checkout on the Same Page:** The plugin provides the option to make the cart and checkout pages on the same page, which can simplify the checkout process and reduce the number of clicks required to complete an order.
+Beginners will like the simplicity of the settings and ease of use. If you're a seasoned user, you can modify this wordpress plugin's code to add new features and functions.
 
-More customization will be added baser on user review.
+If you wish to increase your online store's shopping cart's efficiency, usability, and profitability,
+
+The Shop Shape plugin is the right tool for the job.
+
+Check it out today and begin customizing your cart to increase sales and customer pleasure!
+
+## Features ##
+
+### Elements on the Woo Commerce cart page ###
+
+#### Product Specifications ####
+
+* **Displaying Product Stock on the Cart Page:**
+
+  One of the most important pieces of information for clients is the availability of a product. This information can be displayed on the cart page using the Shop Shape plugin. Customers can immediately evaluate whether the things they want to buy are available.
+* **Product SKU Display on the Cart Page:**
+
+  In the cart page, you may additionally display the SKU (Stock Keeping Unit) of each product. This information is critical for customers who want to keep track of the specific items they buy. Also, it is useful for store owners who need to monitor their inventory.
+* **Product Category Display on the Cart Page:**
+
+  You can also display the category of each product on the cart page using this wordpress plugin. This information can help clients identify the type of goods they're buying. In the future, it will be easier for them to find comparable products.
+
+#### Total Info ####
+
+* **Displaying Total Weight on the Cart Page:**
+
+  You can use this wordpress plugin to display the total weight of the woo commerce products in the woo commerce cart page. It is intended for sellers who offer weighted products. Customers who want to know the shipping cost of their order can utilize this information.
+* **Displaying Total Discount on the Cart Page:**
+
+  This wordpress plugin also allows you to display the total discount applied to the order on the cart page. Customers who wish to keep track of how much they are saving on their purchase can benefit from this information.
+* **Displaying Custom Message When Cart is Empty:**
+
+  When the woo commerce cart page is empty, this wordpress plugin allows you to display a personalized message. This message can be used to motivate customers to add items to their woo commerce cart. Alternatively, they can convey information about the store's policies.
+* **Displaying Custom Message to Encourage Buyer for Free Shipping:**
+
+  This wordpress plugin also allows you to show a personalized message on the woo commerce cart page. It can motivate buyers to place a minimum order value in order to qualify for free shipping. This message might be an excellent strategy to encourage people to buy more things.
+
+### Hide Elements on Woo Commerce cart page ###
+
+* **Hiding Coupon Form and Coupon Code:**
+
+  You can use this wordpress plugin to hide the coupon form and coupon code on the woo commerce cart page. As a result, you can refuse discounts to your customers. Also stop brute force attack to woo commerce coupon system.
+
+* **Hiding Shipping Destination and Shipping Calculator Fields:**
+
+  You can hide the shipment destination and shipping calculator elements on the woo commerce cart page with this wordpress plugin. As a result, you might notify the customer that you do not supply shipment.
+
+* **Hiding Product Links:**
+
+  This wordpress plugin allows you to remove woo commerce product links on the woo commerce cart page. It is useful for woo commerce store owners, who want to prevent customers from leaving the woo commerce cart page and limit cart abandon.
+
+### Remove Elements on Woo Commerce cart page ###
+
+* **Removing a Product Automatically from Cart by Product ID:**
+
+  This plugin allows you to automatically remove a woo commerce product from the woo commerce cart based on its woo commerce product ID. This functionality can be handy for woo commerce retailers who want to apply specific policies or limits.
+
+### Add features on Woo Commerce cart page ###
+
+* **Making Cart and Checkout on the Same Page :**
+
+  This WordPress plugin lets you display the cart and checkout pages on the same page. It improves the checkout process and reduces the number of clicks necessary to complete a transaction.
+
+#### More customization will be added based on user feedback ####
+
 
 == Installation ==
 
@@ -95,8 +147,11 @@ Yes. But I have a plan to expand this.
 
 == Changelog ==
 
+= 1.0.2 - 26/02/2023 =
+- Improved codes
+
 = 1.0.1 - 17/02/2023 =
-- Description update
+- Improved codes
 
 = 1.0.0 - 14/02/2023 =
 - Initial release
